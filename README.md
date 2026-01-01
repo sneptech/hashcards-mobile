@@ -66,7 +66,7 @@ C: Me llamo [María]. (My name is María.)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hashcards-flutter.git
+git clone https://github.com/sneptech/hashcards-flutter.git
 cd hashcards-flutter
 
 # Install dependencies

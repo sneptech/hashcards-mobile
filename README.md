@@ -60,7 +60,7 @@ C: Me llamo [María]. (My name is María.)
 
 ### Prerequisites
 - Flutter SDK 3.10.4 or higher
-- Android Studio / Xcode for device deployment
+- Android Studio / Xcode / VS Code with Flutter extension for device deployment
 
 ### Installation
 

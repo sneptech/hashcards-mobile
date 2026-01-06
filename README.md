@@ -1,6 +1,6 @@
 # Hashcards Mobile
 
-A plain-text spaced repetition flashcard app for Android and iOS. Study smarter with scientifically-proven FSRS scheduling and progressive difficulty that adapts to your skill level.
+A plain-text spaced repetition flashcard app for Android and iOS, building on eudoxia0's Hashcards. Study smarter with scientifically-proven FSRS scheduling and progressive difficulty that adapts to your skill level.
 
 ## Features
 
